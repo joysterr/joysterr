@@ -41,7 +41,7 @@ console.log(skills);
 
 ### 🛸 Find me:
 - 🧑‍🚀 [LinkedIn](https://www.linkedin.com/in/joyster/)
-- 🧑‍💻 [Medium](https://medium.com/@rodriguesjoyster)
+- 🧑‍💻 [Medium](https://medium.com/@joysterr)
 
 > Let's build something cool!
 <!--
