@@ -16,13 +16,14 @@ Now, I aspire to build the **next iteration of software** ✨
 ### 🔭 My (_ever-expanding_) skillset: 
 ```
 const skills = {
-  "languages": ["javascript", "python", "swift", "java"],
-  "frontend": ["html", "css", "javascript", "react.js", "scss", "tailwindcss"],
-  "backend": ["node.js", "express.js", "springboot", "flask"],
-  "database": ["mongodb", "sql"],
-  "ML": ["tensorflow", "keras"],
-  "platforms": ["macos", "linux", "windows"],
-  "IDEs": ["vscode", "xcode", "eclipse"]
+  'languages': ['javascript', 'python', 'swift', 'java'],
+  'frontend': ['html', 'css', 'javascript', 'react.js', 'sass/scss', 'tailwindcss'],
+  'backend': ['node.js', 'express.js', 'springboot', 'flask'],
+  'database': ['mongodb', 'sql'],
+  'devOps': ['git', 'github', 'rest', 'postman'],
+  'ML': ['tensorflow', 'keras'],
+  'platforms': ['macos', 'linux', 'windows'],
+  'IDEs': ['vscode', 'xcode', 'eclipse']
 };
 
 console.log(skills);
