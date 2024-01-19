@@ -3,9 +3,9 @@
 I'm Joy, a Software/Web Developer based in London, UK.
 
 ### ✨ About Me:
-It all began when I was 5 years old and was exposed to [Lego](https://www.lego.com) and [Mechanix](https://zephyrtoys.com/product/plastic-mechanix-planes-161).  
-By 10, I began assembling and upgrading PCs.  
-Now, I aspire to build the **next iteration of software** ✨
+My journey started at the age of 5 with exposure to [Lego](https://www.lego.com) and [Mechanix](https://zephyrtoys.com/product/plastic-mechanix-planes-161).  
+By 10, I was proficient in assembling and upgrading PCs.  
+Today, I aspire to develop cutting-edge software.  
 
 ### 🚀 What I'm up to:
 - Earned my Bachelor's degree in Computer Science [2023]
@@ -34,7 +34,7 @@ console.log(skills);
 - Enthusiastic about UI/UX Design
 - Interested in AI/ML
 - Building Legos
-- Collecting Spiderman Pop Figures
+- Collecting Pop Figures
 - Movies/Cinema
 - Aesthetic Desk Setups
 - All things Science and Astronomy
