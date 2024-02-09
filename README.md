@@ -17,11 +17,12 @@ Today, I aspire to develop cutting-edge software.
 ```
 const skills = {
   'languages': ['javascript', 'python', 'swift', 'java'],
-  'frontend': ['html', 'css', 'javascript', 'react.js', 'sass/scss', 'tailwindcss'],
+  'frontend': ['html', 'css', 'sass/scss', 'react.js', 'tailwindcss'],
   'backend': ['node.js', 'express.js', 'springboot', 'flask'],
   'database': ['mongodb', 'sql'],
-  'devOps': ['git', 'github', 'rest', 'postman'],
+  'devOps': ['git', 'github', 'docker', 'rest apis', 'postman'],
   'ML': ['tensorflow', 'keras'],
+  'GameDev': ['Godot', 'GDScript'],
   'platforms': ['macos', 'linux', 'windows'],
   'IDEs': ['vscode', 'xcode', 'eclipse']
 };
