@@ -34,11 +34,11 @@ console.log(skills);
 - Coding (_obv_)
 - Enthusiastic about UI/UX Design
 - Interested in AI/ML
+- Gaming and Game Development
 - Building Legos
-- Collecting Pop Figures
 - Movies/Cinema
-- Aesthetic Desk Setups
-- All things Science and Astronomy
+- Music Production and Film Scores
+- All things Tech, Science and Astronomy
 - CATS! I love cats 🐈‍⬛
 
 ### 🛸 Find me:
