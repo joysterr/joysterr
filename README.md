@@ -22,7 +22,7 @@ const skills = {
   'database': ['mongodb', 'sql'],
   'devOps': ['git', 'github', 'docker', 'rest apis', 'postman'],
   'ML': ['tensorflow', 'keras'],
-  'GameDev': ['Godot', 'GDScript'],
+  'gameDev': ['Godot', 'GDScript'],
   'platforms': ['macos', 'linux', 'windows'],
   'IDEs': ['vscode', 'xcode', 'eclipse']
 };
@@ -31,7 +31,7 @@ console.log(skills);
 ```
 
 ### 👾 My interests:
-- Coding (_obv_)
+- Programming (_obv_)
 - Enthusiastic about UI/UX Design
 - Interested in AI/ML
 - Gaming and Game Development
@@ -42,6 +42,7 @@ console.log(skills);
 - CATS! I love cats 🐈‍⬛
 
 ### 🛸 Find me:
+- 🧑‍🔬 [Website](https://www.joysterr.com/)
 - 🧑‍🚀 [LinkedIn](https://www.linkedin.com/in/joyster/)
 - 🧑‍💻 [Medium](https://medium.com/@joysterr)
 
