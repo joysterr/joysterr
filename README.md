@@ -36,7 +36,7 @@ console.log(skills);
 - Interested in AI/ML
 - Gaming and Game Development
 - Building Legos
-- Movies/Cinema
+- Films/Cinema
 - Music Production and Film Scores
 - All things Tech, Science and Astronomy
 - CATS! I love cats 🐈‍⬛
