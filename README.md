@@ -1,6 +1,6 @@
 ## 👋 Hello Cosmos!
 
-I'm Joy, a Software/Web Developer based in London, UK.
+I'm Joy, a Software Engineer/Web Developer based in London, UK.
 
 ### ✨ About Me:
 My journey started at the age of 5 with exposure to [Lego](https://www.lego.com) and [Mechanix](https://zephyrtoys.com/product/plastic-mechanix-planes-161).  
@@ -32,8 +32,7 @@ console.log(skills);
 
 ### 👾 My interests:
 - Programming (_obv_)
-- Enthusiastic about UI/UX Design
-- Interested in AI/ML
+- Enthusiastic about AI/ML
 - Gaming and Game Development
 - Building Legos
 - Films/Cinema
