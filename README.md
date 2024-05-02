@@ -1,6 +1,6 @@
 ## 👋 Hello Cosmos!
 
-I'm Joy, a Software Engineer/Web Developer based in London, UK.
+I'm Joy, a Software Engineer based in London, UK.
 
 ### ✨ About Me:
 My journey started at the age of 5 with exposure to [Lego](https://www.lego.com) and [Mechanix](https://zephyrtoys.com/product/plastic-mechanix-planes-161).  
@@ -8,6 +8,7 @@ By 10, I was proficient in assembling and upgrading PCs.
 Today, I aspire to develop cutting-edge software.  
 
 ### 🚀 What I'm up to:
+- Jr Software Engineer @ a LSP Company
 - Earned my Bachelor's degree in Computer Science [2023]
 - Freelancing as a Frontend Web Developer
 - Working on pet projects and developing a porfolio to showcase my work
@@ -17,7 +18,7 @@ Today, I aspire to develop cutting-edge software.
 ```
 const skills = {
   'languages': ['javascript', 'python', 'swift', 'java'],
-  'frontend': ['html', 'css', 'sass/scss', 'react.js', 'tailwindcss'],
+  'frontend': ['html', 'css', 'sass/scss', 'react.js', 'tailwindcss', 'bootstrap'],
   'backend': ['node.js', 'express.js', 'springboot', 'flask'],
   'database': ['mongodb', 'sql'],
   'devOps': ['git', 'github', 'docker', 'rest apis', 'postman'],
