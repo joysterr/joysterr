@@ -22,10 +22,9 @@ const skills = {
   'backend': ['node.js', 'express.js', 'springboot', 'flask'],
   'database': ['mongodb', 'sql'],
   'devOps': ['git', 'github', 'docker', 'rest apis', 'postman'],
-  'ML': ['tensorflow', 'keras'],
+  'ML': ['tensorflow', 'keras', gpt4all, ollama],
   'gameDev': ['Godot', 'GDScript'],
   'platforms': ['macos', 'linux', 'windows'],
-  'IDEs': ['vscode', 'xcode', 'eclipse']
 };
 
 console.log(skills);
