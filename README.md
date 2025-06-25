@@ -15,11 +15,11 @@ I aspire to develop cutting-edge software.
 ### 🔭 My (_ever-expanding_) skillset: 
 ```
 const skills = {
-  'languages': ['javascript', 'python', 'swift', 'java'],
+  'languages': ['javascript', 'python', 'perl', 'java'],
   'frontend': ['html', 'css', 'sass/scss', 'react.js', 'tailwindcss', 'bootstrap'],
-  'backend': ['node.js', 'express.js', 'springboot', 'flask'],
-  'database': ['mongodb', 'sql'],
-  'devOps': ['git', 'github', 'docker', 'rest apis', 'postman'],
+  'backend': ['flask', 'node.js', 'express.js', 'next.js', 'springboot', 'fastapi'],
+  'database': ['mongodb', 'sql', 'firebase'],
+  'devOps': ['git', 'github', 'docker', 'rest apis', 'soap apis', 'postman'],
   'ML': ['tensorflow', 'keras', gpt4all, ollama],
   'gameDev': ['Godot', 'GDScript'],
   'platforms': ['macos', 'linux', 'windows'],
